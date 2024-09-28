@@ -7,9 +7,6 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-
-
-
 class JavaStaticInitializerBlock {
 
     static int B;
